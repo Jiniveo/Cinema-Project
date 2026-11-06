@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # List ALL your .cpp files here so they link together automatically.
 # Do NOT list .h files here.
-add_executable(MyGroupGame 
+add_executable(PlayerHealthSim 
     main.cpp 
     PlayerModule.cpp
 )
